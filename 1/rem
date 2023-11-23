@@ -1,0 +1,14 @@
+current line;
+lineLegnth;
+currentIndexOfInput;
+
+output[lineLegnth] = '\0'
+currentIndex = lineLegnth-1
+currentIndexOfOutput = 0
+
+while x != lineLegnth
+	output[x] = currentIndex[currentIndex]
+	currentIndex--
+	x++
+
+return output;
